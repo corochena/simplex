@@ -1,0 +1,28 @@
+input {
+    text-align: center;
+    width: 40px;
+    padding: 3px 0px;
+  }
+  
+#tableau td {
+    text-align: center;
+}
+
+#solution td{
+    line-height: 140%;
+    text-align: right;
+    border: 1px solid;
+}
+
+#solution table {
+    border-collapse: collapse;
+}
+
+body {
+    width: 95%;
+    margin: 15px auto;
+}
+
+form {
+    line-height: 200%;
+}
